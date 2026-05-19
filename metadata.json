@@ -1,0 +1,6 @@
+{
+  "name": "Kennethjay Guban Mapalad",
+  "description": "High-tech sci-fi explorer for a massive library of 15 million books and 7 million movies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
